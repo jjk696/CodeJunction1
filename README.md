@@ -1,1 +1,1 @@
-# CodeJunction1
+Basics of core java , css, JS, jdbc
